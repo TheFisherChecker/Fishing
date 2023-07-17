@@ -1,66 +1,30 @@
 {
-    "68e25e6a-0a39-4212-9029-348145b5cd08": {
+    "b131e24d-c543-42ff-8c07-e7d6d5094a19": {
         "id": "0",
-        "email": "dspiess@gmail.com",
-        "name": "Daniel Spiess",
-        "time": "2023-07-16 16:37:09",
-        "mail": "signal",
-        "executed": false
-    },
-    "23ff7bdc-14f3-4c1a-a63b-b7f405a95140": {
-        "id": "1",
-        "email": "dconceicao1982@gmail.com",
-        "name": "Dani Conceicao",
-        "time": "2023-07-16 16:31:29",
-        "mail": "signal",
-        "executed": false
-    },
-     "397a791e-9a99-4b16-960e-c56e37eb8ab3": {
-        "id": "0",
-        "email": "dspiess@gmail.com",
-        "name": "Daniel Spiess",
-        "time": "2023-07-16 17:43:07",
-        "mail": "signal",
-        "executed": false
-    },
-    "eab30f73-fdec-4d14-89a3-683f80756632": {
-        "id": "1",
-        "email": "dconceicao1982@gmail.com",
-        "name": "Dani Conceicao",
-        "time": "2023-07-16 16:46:35",
-        "mail": "signal",
-        "executed": false
-    },
-    "4973f0ec-104a-4126-83ad-eb6a749168ac": {
-        "id": "0",
-        "email": "dspiess@gmail.com",
-        "name": "Daniel Spiess",
-        "time": "2023-07-16 17:17:37",
+        "receiver group": "springbock",
+        "time": "2023-07-17 16:56:21",
         "mail": "prinzessin",
         "executed": false
     },
-    "2bdd1c80-afd4-426a-9d8a-a5d4a3344f03": {
+    "61245bb5-4720-4c25-8106-a4fc3758a18e": {
         "id": "1",
-        "email": "dconceicao1982@gmail.com",
-        "name": "Dani Conceicao",
-        "time": "2023-07-16 17:16:29",
+        "receiver group": "springbock",
+        "time": "2023-07-17 16:56:35",
         "mail": "prinzessin",
         "executed": false
     },
-    "0913bdf2-ba79-48a2-a032-a2ef54ea2b2e": {
+     "eae96ea0-c212-4196-a65c-062444a2d60f": {
         "id": "0",
-        "email": "dspiess@gmail.com",
-        "name": "Daniel Spiess",
-        "time": "2023-07-16 16:51:20",
-        "mail": "prinzessin",
+        "receiver group": "springbock",
+        "time": "2023-07-17 16:55:44",
+        "mail": "signal",
         "executed": false
     },
-    "28393fdf-6eea-48f3-a4f0-d5cb58ac93fd": {
+    "76d1d80f-9a51-4e12-91e4-63a14f11b60f": {
         "id": "1",
-        "email": "dconceicao1982@gmail.com",
-        "name": "Dani Conceicao",
-        "time": "2023-07-16 16:43:47",
-        "mail": "prinzessin",
+        "receiver group": "springbock",
+        "time": "2023-07-17 16:56:17",
+        "mail": "signal",
         "executed": false
     }
 }
