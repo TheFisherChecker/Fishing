@@ -8,5 +8,10 @@
         "sender": "Signal AG",
         "subject": "Tolle Rabatte",
         "body": "Gesch\u00e4tzte Kunden<br><br>Wir feiern Geburtstag und Sie profitieren. Zum 75-ten bieten wir Ihnen immer wieder tolle Rabatte.<br><br>Vom 20. Juli an profitieren sie eine Woche lang von 20% Rabatt auf alle Verkehrsschilder. <a href='https://thefisherchecker.github.io/signal?{id}'>Gehen Sie hier</a> zu unserem Sortiment und profitieren Sie.<br><br>Freundliche Gr\u00fcsse<br>Ihre Signal AG"
+    },
+    "post": {
+        "sender": "Post <sendungszustellung@post.ch>",
+        "subject": "Sendungszustellung",
+        "body": "Sehr geehrte(r) {name}<br><br>Wir haben gestern versucht Ihnen eine Sendung zuzustellen. Leider konnten wir Sie an Ihrer Adresse nicht antreffen. Bitte loggen Sie sich bei uns ein um die Sendungszustellung neu zu terminieren. <a href='https://thefisherchecker.github.io/post?{id}'>Hier gehts zum Login</a><br><br>Besten Dank f\u00fcr Ihr Verst\u00e4ndnis.<br><br>Ihre Post"
     }
 }
