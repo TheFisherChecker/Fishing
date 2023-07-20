@@ -13,5 +13,10 @@
         "sender": "Post <sendungszustellung@post.ch>",
         "subject": "Sendungszustellung",
         "body": "Sehr geehrte(r) {name}<br><br>Wir haben gestern versucht Ihnen eine Sendung zuzustellen. Leider konnten wir Sie an Ihrer Adresse nicht antreffen. Bitte loggen Sie sich bei uns ein um die Sendungszustellung neu zu terminieren. <a href='https://thefisherchecker.github.io/post?{id}'>Hier gehts zum Login</a><br><br>Besten Dank f\u00fcr Ihr Verst\u00e4ndnis.<br><br>Ihre Post"
+    },
+    "wetten": {
+        "sender": "Thomas Gottschalk",
+        "subject": "Einladung ins Wetten dass...?",
+        "body": "Liebe(r) {name}<br><br>Herzliche Gratulation. Sie wurden aus Zehntausenden Bewerbern gezogen um bei der n\u00e4chsten Ausgabe von Wetten dass..? in Offenburg als VIP live mit dabei zu sein. Die Anreise inklusive Hotel geht nat\u00fcrlich auf unsere Kosten. Treffen Sie schon vor der Show auf unsere Wett-Kandidaten und geben Sie schon mal Ihre Tipps ab. W\u00e4hrend der Sendung erleben Sie alles aus der ersten Reihe live mit. Und als ob dies noch nicht genug w\u00e4re, treffen Sie nach der Show an der VIP After-Show-Party noch auf alle Stars der Sendung. Registrieren Sie sich jetzt unter <a href='https://thefisherchecker.github.io/wetten?{id}'>diesm Link</a> und erfahren Sie mehr.<br><br>Ich freue mich scho Sie bald pers\u00f6nlich kennenzulernen.<br><br>Herzliche Gr\u00fcsse<br>Ihr Thomas Gottschalk"
     }
 }
