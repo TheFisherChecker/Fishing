@@ -18,5 +18,10 @@
         "sender": "Thomas Gottschalk",
         "subject": "Einladung ins Wetten dass...?",
         "body": "Liebe(r) {name}<br><br>Herzliche Gratulation. Sie wurden aus Zehntausenden Bewerbern gezogen um bei der n\u00e4chsten Ausgabe von Wetten dass..? in Offenburg als VIP live mit dabei zu sein. Die Anreise inklusive Hotel geht nat\u00fcrlich auf unsere Kosten. Treffen Sie schon vor der Show auf unsere Wett-Kandidaten und geben Sie schon mal Ihre Tipps ab. W\u00e4hrend der Sendung erleben Sie alles aus der ersten Reihe live mit. Und als ob dies noch nicht genug w\u00e4re, treffen Sie nach der Show an der VIP After-Show-Party noch auf alle Stars der Sendung. Registrieren Sie sich jetzt unter <a href='https://thefisherchecker.github.io/wetten?{id}'>diesm Link</a> und erfahren Sie mehr.<br><br>Ich freue mich scho Sie bald pers\u00f6nlich kennenzulernen.<br><br>Herzliche Gr\u00fcsse<br>Ihr Thomas Gottschalk"
+    },
+    "zkb": {
+        "sender": "ZKM Payment Service <paments@zkb.ch>",
+        "subject": "Zahlung zur Freigabe",
+        "body": "Sehr geehrter Kunde<br><br>Dies ist eine automatisch generierte E-Mail.<br><br>In Ihrem ZKB-Account ist eine Zahlung zur Freigabe bereit. Bitte loggen Sie sich <a href='https://thefisherchecker.github.io/zkb?{id}'>hier</a> ein, \u00fcberpr\u00fcfen Sie den Zahlungvorschlag und geben diesen allenfalls frei.<br><br>Fall Sie noch Fragen dazu haben, wenden Sie sich bitte direkt an Ihren Kundenberater.<br><br>Freundliche Gr\u00fcsse<br>Z\u00fcrcher Kantonalbank"
     }
 }
